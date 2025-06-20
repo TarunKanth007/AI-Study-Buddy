@@ -2,6 +2,7 @@
 
 An intelligent and interactive web app that helps students study smarter using **Gemini AI (Google Generative AI)**.  
 This tool offers live chat with AI, flashcard generation, quiz mode, and a smart study timer — all inside a clean, dark-themed UI with theme toggle support.
+Used the API's of genai in this project.
 
 ---
 
