@@ -27,6 +27,22 @@ Used the API's of genai in this project.
 
 ---
 
+### Home Screen
+![Screenshot 2025-06-09 000153](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000153.png)
+![Screenshot 2025-06-09 000204](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000204.png)
+
+### Contestants
+![Screenshot 2025-06-09 000238](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000238.png)
+
+### After vote
+![Screenshot 2025-06-09 000249](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000249.png)
+
+### Admin Page
+![Screenshot 2025-06-09 000314](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000314.png)
+![Screenshot 2025-06-09 000336](https://github.com/TarunKanth007/Online-Voting-System/blob/main/images/Screenshot%202025-06-09%20000336.png)
+
+---
+
 ## 🛠️ How to Run
 
 1. Make sure you have Python 3.10 or later installed.  
